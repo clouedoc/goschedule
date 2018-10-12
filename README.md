@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center"><b>goschedule</b></h1>
-<h4 align="center">~ A Deadly Efficient Tasking System for Golang ~</h2>
+<h4 align="center">~ A Deadly Efficient Tasking System for Golang ~</h4>
 </p>
 
 ## Features
@@ -60,12 +60,16 @@ _ = scheduler.RemoveTask(id)
 
 ## LICENSE
 
-Please see LICENSE.md for license informations.
+This code is licensed under the GNU GPLv3.
+*grosso-modo*, you can do whatever you want with the code *albeit* using it in closed source commercial projects without sharing back your modifications.
+Please see LICENSE for more details.
 
 ## TODO
 
-- [ ] Documentation on exposed API functions
-- [ ] Adding custom arguments to task functions
-- [ ] Choosing precision
+- [ ] Documentation
+- [ ] Custom Arguments
+- [ ] Precision
 - [ ] Cool logo
 - [X] Being cool
+
+I usually remove items I'm working on from the list, so feel free to make your changes and open a pull request !
