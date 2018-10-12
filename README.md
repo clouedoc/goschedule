@@ -1,7 +1,6 @@
 <p align="center">
 <h1 align="center"><b>goschedule</b></h1>
-
-<h2>~ A Deadly Efficient Tasking System for Golang ~</h2>
+<h4 align="center">~ A Deadly Efficient Tasking System for Golang ~</h2>
 </p>
 
 ## Features
