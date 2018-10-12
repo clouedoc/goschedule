@@ -23,7 +23,7 @@ go get github.com/jesuiscamille/goschedule
 To use it in your project, add this:
 
 ```go
-import "github.com/jesuiscamille/goschedule
+import "github.com/jesuiscamille/goschedule"
 ```
 
 ## Example
