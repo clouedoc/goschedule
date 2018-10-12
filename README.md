@@ -1,7 +1,7 @@
 <p align="center">
 # goschedule
 
-Deadly Efficient Task System
+~ A Deadly Efficient Tasking System for Golang ~
 </p>
 
 ## Features
