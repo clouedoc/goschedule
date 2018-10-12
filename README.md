@@ -1,20 +1,19 @@
 <p align="center">
-# goschedule
+<h1 align="center"><b>goschedule</b></h1>
 
-~ A Deadly Efficient Tasking System for Golang ~
+<h2>~ A Deadly Efficient Tasking System for Golang ~</h2>
 </p>
 
 ## Features
-
-    * safe for concurent use
-        - use it accross goroutines !
-    * precise to the minute
-    * lightweight
-        - efficient memory management
-    * intuitive API
-    * easy task management
-        - add tasks
-        - remove tasks
+* safe for concurent use
+    - use it accross goroutines !
+* precise to the minute
+* lightweight
+    - efficient memory management
+* intuitive API
+* easy task management
+    - add tasks
+    - remove tasks
 
 ## Installation
 
