@@ -44,7 +44,7 @@ func main() {
     // Adding a task will automagically start the scheduler
     id := scheduler.AddTask(15, 30, func() {
         now := time.Now()
-        fmt.Printf("Hello, it's %d:%d !\n", now.Hour, now.Minute)
+        fmt.Printf("Hello, it's %d:%d !\n", now.Hour(), now.Minute())
     })
 
     _ = id
