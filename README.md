@@ -46,6 +46,12 @@ func main() {
         now := time.Now()
         fmt.Printf("Hello, it's %d:%d !\n", now.Hour, now.Minute)
     })
+
+    _ = id
+
+    for {
+        time.Sleep(time.Hour)
+    }
 }
 ```
 
